@@ -1,0 +1,12 @@
+[
+  {
+   "userName" : "adminuser",
+   "host" : "localhost",
+   "admin" : true
+  },
+  {
+    "userName" : "dano",
+    "host" : "localhost",
+    "admin" : false
+  }
+]
